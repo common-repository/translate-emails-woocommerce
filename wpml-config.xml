@@ -1,0 +1,11 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">shopmagic_automation</custom-type>
+    </custom-types>
+    <custom-fields>
+        <custom-field action="translate">filters</custom-field>
+        <custom-field action="translate">_event</custom-field>
+        <custom-field action="translate">_event_data</custom-field>
+        <custom-field action="translate">_actions</custom-field>
+    </custom-fields>
+</wpml-config>
